@@ -7,13 +7,13 @@ pkg install python
 
 2. Clone repo ini:
 ```bash
-git clone https://github.com/kamunanay/encrypt-decrypt-ganz.git
-cd encrypt-decrypt-ganzmods
+git clone https://github.com/kamunanay/Secukupnya.git
+cd Secukupnya 
 ```
 
 
 ## Jalankan Programnya 
 3.Jalankan Kode nya
 ```bash
-python encrypt_decrypt_ganzmods.py
+python main.py
 ```
